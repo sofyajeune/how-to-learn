@@ -1,0 +1,9 @@
+.video__iframe {
+  list-style: none;
+  position: relative;
+  margin: 0;
+  margin-right: 20px;
+  width: 515px;
+  height: 316px;
+  border-style: none; 
+}
